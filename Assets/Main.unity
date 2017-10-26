@@ -221,48 +221,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
---- !u!1001 &932628539
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 498322, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 379f6939352218a41a33deda4ed88350, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1258153687
 GameObject:
   m_ObjectHideFlags: 0
@@ -430,4 +388,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d38893348ff2f174e88f0c8adad63a3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SquarePrefab: {fileID: 111482, guid: 379f6939352218a41a33deda4ed88350, type: 2}
+  SquarePrefab: {fileID: 194928, guid: ac3195df49d765546947af6c2509acea, type: 2}

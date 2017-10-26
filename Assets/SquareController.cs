@@ -13,7 +13,7 @@ public class SquareController : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        Shoot(new Vector3(0, 200,2000));
+        //Shoot(new Vector3(0, 200,2000));
     }
 
     void OnCllisionEnter(Collision other)
